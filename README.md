@@ -26,5 +26,20 @@ The menu featured 32 items, with Edamame at $5.00 being the least expensive and 
 Orders from January 1, 2023, to March 31, 2023, totaled 5,370, with 12,234 items ordered. The maximum number of items in a single order was 14, and only 20 orders contained more than 12 items.
 
 ### Results Findings
+The analysis results are summarized as follows:
+1. The least ordered item was chicken tacos, a Mexican cuisine, while the most ordered items were hamburgers, an American cuisine.
+2. The top five orders with the highest spending were order numbers 440, 2075, 1957, 330, and 2675. The highest spending order, number 440, totaled $192.15.
+3. The highest spending order predominantly purchased Italian cuisine, suggesting that Italian food is particularly popular among high-spending customers.
+4. High-spending orders frequently include Italian cuisine, indicating that this category should be maintained on the menu due to its popularity and profitability.
 
 
+### Recommendations
+Based on the analysis, the following actions are recommended:
+* Focus on popular items (hamburgers and Italian cuisine). Ensure quality and consider increasing prices.
+* Reevaluate less popular items (chicken tacos). Consider removing it from the menu or changing the recipe.
+* Promote high-spending categories with special deals or discounts.
+
+### Limitations
+The analysis is limited by the short time frame of the data, sample size, and data completeness.  
+
+   
